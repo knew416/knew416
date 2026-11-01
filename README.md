@@ -43,7 +43,7 @@ I’m also exploring AI identity security: how to identify non-human identities,
 | --- | --- |
 | [JML Automation](https://github.com/knew416/Entra-ID-JML-PowerShell-Automation) | Automating joiner, mover, and leaver workflows with PowerShell and Microsoft Graph. |
 | [Entra ID Access Reviews](https://github.com/knew416/Entra-ID-Access-Reviews-Lab) | Reviewing access, recording decisions, and supporting least privilege. |
-
+| [AI Identity Management Lab](https://github.com/knew416/AI-Identity-Keycloak-Lab) | AI agent access using OAuth 2.0, OpenID Connect, JWT validation, and least-privilege permissions. |
 ---
 
 ## Additional Lab Work
