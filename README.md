@@ -45,6 +45,7 @@ I’m also exploring AI identity security: how to identify non-human identities,
 | [Entra ID Access Reviews](https://github.com/knew416/Entra-ID-Access-Reviews-Lab) | Reviewing access, recording decisions, and supporting least privilege. |
 | [AI Identity Management Lab](https://github.com/knew416/AI-Identity-Keycloak-Lab) | AI agent access using OAuth 2.0, OpenID Connect, JWT validation, and least-privilege permissions. |
 | [Entra ID Identity Foundation](https://github.com/knew416/Storybook-Entra-Identity-Foundation) | Managing users and groups, automating department membership, and testing administrative permissions scoped to an Administrative Unit. |
+| [Entra Conditional Access](https://github.com/knew416/Storybook-Entra-Conditional-Access) | Testing and enforcing MFA, simulating legacy authentication blocking, and investigating sign in policy results. |
 ---
 
 ## Additional Lab Work
